@@ -1,0 +1,29 @@
+
+[
+    {
+        "id":1,
+        "Titulo":"Esperando la carroza ",
+        "Director":"Doria",
+        "anio":1985
+    },
+     {
+        "id":2,
+        "Titulo":"Nueve reinas",
+        "Director":"Bielinsky",
+        "anio":2000
+    },
+    {
+        "id":3,
+        "Titulo":"Relatos salvajes",
+        "Director":"Szifron",
+        "anio":2014
+    },
+    {
+        "id":4,
+        "Titulo":"Algo que paso en anio nuevo",
+        "Director":"Pinarello",
+        "anio":2022
+    }
+
+]
+
